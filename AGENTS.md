@@ -42,3 +42,7 @@ Read and follow:
 - `docs/dev/policies/0001-policy-management.md`
 - `docs/dev/policies/0002-product-and-runtime-governance.md`
 - `docs/dev/policies/0003-planning-and-validation.md`
+
+## Downstream ownership and upstream isolation
+
+This checkout is maintained for `itsvivekgargdaddy/business-card-watchdog`. `CochranResearchGroup/business-card-watchdog` is a read-only upstream for this personal stack. Changes, issues, pull requests, labels and deployments must target this verified downstream repository unless the user explicitly requests an upstream contribution. Upstream tracker URLs in inherited documentation do not authorize writes there. Keep credentials and runtime state outside Git.
